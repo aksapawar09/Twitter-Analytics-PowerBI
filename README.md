@@ -26,6 +26,5 @@ KPIs Measured
 - Media Engagements
 - Tweet Word Count
 
-Final Observation
 After applying all required constraints simultaneously, no tweets in the dataset satisfied every condition. Therefore, the scatter chart does not display any data points.
 
